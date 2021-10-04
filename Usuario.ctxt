@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Usuario
+comment1.params=tel\ endereco\ id\ nome
+comment1.target=Usuario(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=n\ i\ e\ t
+comment2.target=void\ newUser(java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=3

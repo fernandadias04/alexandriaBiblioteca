@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Livro
+comment1.params=nome\ autor\ nPag\ qtdCopias\ id
+comment1.target=Livro(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+numComments=2
