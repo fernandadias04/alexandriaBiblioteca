@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=LivroEmprestado
+comment1.params=nome\ autor\ nPag\ qtdCopia\ id\ dataInicio\ dataFinal\ locador\ atraso
+comment1.target=LivroEmprestado(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ cadastro()
+comment3.params=
+comment3.target=void\ emprestimo()
+comment4.params=atraso
+comment4.target=void\ atraso(boolean)
+numComments=5
