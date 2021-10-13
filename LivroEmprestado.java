@@ -33,27 +33,30 @@ public class LivroEmprestado extends Livro
         System.out.println("Codgo do Livro");
         Scanner sc = new Scanner(System.in);
         int id = sc.nextInt (); 
-        gravarArq.printf("%d", id);
+        gravarArq.printf("%d ", id);
+        
                
         System.out.println("Nº Pagina do Livro");
         int nPag = sc.nextInt ();
-        gravarArq.printf("%d", nPag);
+        gravarArq.printf("%d ", nPag);
         
         System.out.println("Nº de Copias do Livro");
         int qtdCopia = sc.nextInt ();
-        gravarArq.printf("%d", qtdCopia);
+        gravarArq.printf("%d ", qtdCopia);
         
         System.out.println("Id do Locador");
         int locador = sc.nextInt ();
-        gravarArq.printf("%d", locador);
+        gravarArq.printf("%d ", locador);
         
         System.out.println("Nome do Livro");
         String nome = sc.nextLine ();
-        gravarArq.printf("%s", nome);
+        gravarArq.printf("%s ", nome);
         
         System.out.println("Nome do autor");
         String autor = sc.nextLine ();
-        gravarArq.printf("%s", autor);
+        gravarArq.printf("%s ", autor);
+
+        gravarArq.printf("\r\n");
         
         arq.close();
          

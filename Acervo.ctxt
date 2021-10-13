@@ -1,5 +1,9 @@
 #BlueJ class context
 comment0.target=Acervo
-comment1.params=
-comment1.target=Acervo()
-numComments=2
+comment1.params=nome\ autor\ nPag\ qtdCopia\ id
+comment1.target=Acervo(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ cadastrarAcervo()
+comment3.params=
+comment3.target=void\ mostrarAcervo()
+numComments=4
